@@ -6,19 +6,19 @@ app
 
 * index.html
 * js
-* * app.js
-* * vendor
-* * * jquery.js
-* * * angular.js
-* * * angular-route.js
+* -app.js
+* -vendor
+* ---jquery.js
+* ---angular.js
+* ---angular-route.js
 * templates
-* * pages
-* * * notes
-* * * * edit.html
-* * * * new.html
-* * * * index.html
-* * * users
-* * * * edit.html
-* * * * new.html
-* * * * index.html
+* -pages
+* ---notes
+* -----edit.html
+* -----new.html
+* -----index.html
+* ---users
+* -----edit.html
+* -----new.html
+* -----index.html
 
